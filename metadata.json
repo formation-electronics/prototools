@@ -1,0 +1,29 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Prototools
+    "description": "KiCad utilities for eurorack design, and more in the future!",
+    "description_full": "KiCad utilities for eurorack design, and more in the future!\n\nYou must add these libraries to your library tables, see GitHub link for instructions.",
+    "identifier": "com.github.formation-electronics.prototools",
+    "type": "library",
+    "author": {
+        "name": "electron271"        
+    },
+    "maintainer": {
+        "name": "electron271"
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/formation-electronics/prototools"
+    },
+    "tags": [
+        "footprints", 
+        "symbols"
+    ],
+    "versions": [
+        {
+            "version": "unreleased",
+            "status": "development",
+            "kicad_version": "6.0"
+        }
+    ]
+}
