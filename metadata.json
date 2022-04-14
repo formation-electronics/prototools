@@ -1,6 +1,6 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "Prototools
+    "name": "Prototools",
     "description": "KiCad utilities for eurorack design, and more in the future!",
     "description_full": "KiCad utilities for eurorack design, and more in the future!\n\nYou must add these libraries to your library tables, see GitHub link for instructions.",
     "identifier": "com.github.formation-electronics.prototools",
