@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "prototools",
+    "description": "A library for synthesizers and more coming soon!",
+    "description_full": "A library for synthesizers (mostly eurorack) and more coming soon!",
+    "identifier": "com.github.formation-electronics.prototools",
+    "type": "library",
+    "author": {
+        "name": "electron271",
+        "contact": {
+            "web": "https://github.com/electron271"
+        }
+    },
+    "maintainer": {
+        "name": "electron271",
+        "contact": {
+            "web": "https://github.com/electron271"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/formation-electronics/prototools"
+    },
+    "versions": [
+        {
+            "version": "0.1",
+            "status": "development",
+            "kicad_version": "5.99"
+        }
+    ]
+}
